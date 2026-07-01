@@ -24,8 +24,5 @@ int main()
       scanf("%d", &marks);
       fprintf(fptr,"\nName: %s \nMarks=%d \n", name, marks);
    }
-      //#$LLR-21
-   fclose(fptr);
-      //#$LLR-21
-   return 0;
+   
 }
